@@ -1,0 +1,29 @@
+C:\Users\maris\source\repos\aulaProjetoDecisao\bin\Debug\aulaProjetoDecisao.exe.config
+C:\Users\maris\source\repos\aulaProjetoDecisao\bin\Debug\aulaProjetoDecisao.exe
+C:\Users\maris\source\repos\aulaProjetoDecisao\bin\Debug\aulaProjetoDecisao.pdb
+C:\Users\maris\source\repos\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.csprojAssemblyReference.cache
+C:\Users\maris\source\repos\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.FrmPrincipal.resources
+C:\Users\maris\source\repos\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.Properties.Resources.resources
+C:\Users\maris\source\repos\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.csproj.GenerateResource.cache
+C:\Users\maris\source\repos\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.csproj.CoreCompileInputs.cache
+C:\Users\maris\source\repos\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.exe
+C:\Users\maris\source\repos\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.pdb
+C:\Users\maris\source\repos\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.PositivoNegativo.resources
+C:\Users\maris\source\repos\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.Peso.resources
+C:\Marisa\projetosC\aulaProjetoDecisao\bin\Debug\aulaProjetoDecisao.exe.config
+C:\Marisa\projetosC\aulaProjetoDecisao\bin\Debug\aulaProjetoDecisao.exe
+C:\Marisa\projetosC\aulaProjetoDecisao\bin\Debug\aulaProjetoDecisao.pdb
+C:\Marisa\projetosC\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.csprojAssemblyReference.cache
+C:\Marisa\projetosC\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.FrmPrincipal.resources
+C:\Marisa\projetosC\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.Peso.resources
+C:\Marisa\projetosC\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.PositivoNegativo.resources
+C:\Marisa\projetosC\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.Properties.Resources.resources
+C:\Marisa\projetosC\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.csproj.GenerateResource.cache
+C:\Marisa\projetosC\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.csproj.CoreCompileInputs.cache
+C:\Marisa\projetosC\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.exe
+C:\Marisa\projetosC\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.pdb
+C:\Marisa\projetosC\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.Temperatura.resources
+C:\Marisa\projetosC\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.Dolar.resources
+C:\Users\nicol\OneDrive\Área de Trabalho\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.csprojAssemblyReference.cache
+C:\Users\nicol\OneDrive\Área de Trabalho\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.exe
+C:\Users\nicol\OneDrive\Área de Trabalho\aulaProjetoDecisao\obj\Debug\aulaProjetoDecisao.pdb
